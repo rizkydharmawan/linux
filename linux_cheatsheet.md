@@ -8,3 +8,5 @@
 `echo`
 ### Show the history of command line
 `history`
+### Ubuntu Version
+`lsb_release -a`
