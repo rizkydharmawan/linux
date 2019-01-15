@@ -10,3 +10,5 @@
 `history`
 ### Ubuntu Version
 `lsb_release -a`
+### Find file location
+`locate`
