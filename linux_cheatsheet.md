@@ -1,10 +1,10 @@
-# Host name
+### Host name
 `whoami`
-# Kernel
+### Kernel
 `uname`
-# Current working directory
+### Current working directory
 `pwd`
-# Print text
+### Print text
 `echo`
-# Show the history of command line
+### Show the history of command line
 `history`
